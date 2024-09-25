@@ -24,7 +24,7 @@
     </repositories>
     
     <properties>
-        <jerseyVersion>2.37</jerseyVersion>
+        <jerseyVersion>2.41</jerseyVersion>
         <springVersion>5.3.18</springVersion> <!-- for tests -->
     </properties>
 
